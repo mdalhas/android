@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EmployeeManagement" parent="Theme.MaterialComponents.DayNight.NoActionBar" >
+            <item name="colorPrimary">#D5D2DA</item>
+            <item name="colorSecondary">#CAE2ED</item>
+    </style>
+
+
+
+
+
+</resources>
